@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -Wall -S "$CFILE" -o "$FILENAME.s"
+gcc -S $CFILE
