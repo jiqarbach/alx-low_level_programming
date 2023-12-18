@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main -Entry point
+ * main - Entry point
  *
- * Return: always 0(seccess)
+ * Return: always 0 (seccess)
  */
 int main(void)
 {
