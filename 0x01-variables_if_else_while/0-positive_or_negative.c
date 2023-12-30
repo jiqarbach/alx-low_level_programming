@@ -4,9 +4,12 @@
 
 #include <stdio.h>
 
-/* more headers goes there */
+/**
+ * main - Prints if number is positive, zero or negative
+ * Return: Always (Success)
+ *
+ */
 
-/* betty style doc for function main goes there */
 int main(void)
 {
 	int n;
